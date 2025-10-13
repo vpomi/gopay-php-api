@@ -22,6 +22,7 @@ class BankSwiftCode
     const MAX_BANKA = 'EXPNCZPP';
     const JT_BANKA = 'JTBPCZPP';
     const PARTNERS_BANK = 'PTBNCZPP';
+    const REVOLUT_LT = 'RVUALT2VXXX';
 
     //SK
     const TATRA_BANKA = 'TATRSKBX';
@@ -42,6 +43,7 @@ class BankSwiftCode
     const BKS_BANK = 'BFKKSKBB';
     const RAIFFEISENBANK_SK = 'TATRSKBXXXX';
     const KOMERCNI_BANKA_SK = 'KOMBSKBA';
+    const BANK365_SK = 'POBNSKBAXXX';
     // PL
     const MBANK1 = 'BREXPLPW';
     const CITI_HANDLOWY = 'CITIPLPX';
